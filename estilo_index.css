@@ -5,11 +5,28 @@ p{text-align: justify;}
 p.descripción{font-family: Lato;clear: both;padding-top: 10px;}
 nav{display: inline-block;width: 50%;}
 ol{list-style-type: none;display: inline-block;padding: 0;width: 100%;text-align: right;}
-li{display: inline-block;width: 33%;text-align: center;}
+li{display: inline-block;width: 25%;text-align: center;}
 img{float: left;margin-right: 20px;width: 50%;height: 35%;}
-article{clear: both;overflow: auto;margin-top: 10px;border: 1px solid black;width: 480px;height: 500px;display: inline-block;vertical-align: top;margin-left: 10px;padding: 10px;}
-footer{background-color: blanchedalmond;height: 30px;font-size: 0.8em;padding: 10px;text-align: center;margin-top: 15px;border: 1px solid black;font-family: Roboto;}
+article{clear: both;overflow: auto;margin-top: 10px;border: 1px solid black;width: 35%;height: 500px;display: inline-block;vertical-align: top;margin-left: 1%;padding: 10px;box-sizing: border-box;}
+footer{background-color: blanchedalmond;font-size: 0.8em;padding: 10px;text-align: center;margin-top: 15px;border: 1px solid black;font-family: Roboto;width: 72%;margin: auto;box-sizing: border-box;}
 a{color: inherit;text-decoration: none;}
 li:hover{background-color: black;color: white;}
 main{text-align: center;}
 h2{text-align: left;}
+@media(max-width:600px){
+    img{
+        float: initial;
+        display: block;
+        width: 100%;
+    }
+    article{
+        width: 90%;
+    }
+    h1,nav{
+        width: 100%;
+        display: block;
+    }
+    footer{
+        width: 90%;
+    }
+}
