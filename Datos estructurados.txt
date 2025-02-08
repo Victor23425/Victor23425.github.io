@@ -1,0 +1,10 @@
+<!-- Marcado JSON-LD generado por el Asistente para el marcado de datos estructurados de Google. -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "name": "Tiburón martillo grande (Sphyrna lewini)",
+  "image": "https://victor23425.github.io/Im%C3%A1genes/Tibur%C3%B3n_martillo_grande_(Sphyrna_lewini).jpg",
+  "articleBody": "·Sobrepesca: Este tiburón es muy valorado en el mercado por su carne y sus aletas, lo que ha llevado a una disminución drástica en sus poblaciones.</P>\n            <P>·Captura incidental: A menudo queda atrapado en redes de pesca destinadas a otras especies, lo que contribuye a su declive.</P>\n            <P>·Destrucción de hábitat: La degradación de los ecosistemas costeros y los arrecifes, donde estos tiburones suelen vivir y reproducirse, afecta su supervivencia.</P>\n            <P>·Cambio climático: Las alteraciones en las temperaturas del océano y la acidificación afectan la disponibilidad de presas y su hábitat.</P>\n            <P>·Baja tasa de reproducción: Tienen un crecimiento lento y una reproducción limitada, lo que dificulta la recuperación de las poblaciones ya disminuidas."
+}
+</script>
