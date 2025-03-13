@@ -1,7 +1,7 @@
 body{width: 75%;margin: 0 auto;}
 header{border-bottom: 1px solid black;}
 h1{display: inline-block;width: 50%;}
-p{text-align: justify;}
+p{text-align: left;}
 p.descripción{font-family: Lato;clear: both;padding-top: 10px;}
 nav{display: inline-block;width: 50%;}
 ol{list-style-type: none;display: inline-block;padding: 0;width: 100%;text-align: right;}
